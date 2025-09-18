@@ -15,5 +15,4 @@ void main() {
     System.out.println(String.format("Purchase price is: $" + purchasePrice));
     System.out.println(String.format("Sales tax is: $" + salesTax));
     System.out.println(String.format("Total price is: $" + totalPrice));
-
     }
